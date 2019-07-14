@@ -194,6 +194,7 @@ int main(int argc ,char *argv[])
 	fp_meditation=openAllFile(argv[1],argv[2],"meditation");
 	fp_poorSignal=openAllFile(argv[1],argv[2],"poorSignal");
 	fp_powerSignal=openAllFile(argv[1],argv[2],"powerSignal");
+	fprintf(fp_powerSignal,"%s\n","0.5~2.7,3.5~6.75,7.5~9.25,10~11.75,13~16.75,18~29.75,31~39.75,41~49.75");
 	fp_raw=openAllFile(argv[1],argv[2],"raw");
 
 
