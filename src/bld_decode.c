@@ -68,7 +68,7 @@ void extractData(unsigned char *data,int len)
 
 }
 
-int main(int argc ,char *argv[])
+int main33(int argc ,char *argv[])
 {
 	printf("start3...\n");
 	FILE *stream = fopen( "D:/EEG/transdata.dat", "rb" );

@@ -25,7 +25,7 @@
             			
             <storageModule moduleId="cdtBuildSystem" version="4.0.0">
                 				
-                <configuration artifactName="${ProjName}" buildProperties="" description="" id="cdt.managedbuild.toolchain.gnu.mingw.base.22751677" name="Default" optionalBuildProperties="org.eclipse.cdt.docker.launcher.containerbuild.property.selectedvolumes=,org.eclipse.cdt.docker.launcher.containerbuild.property.volumes=" parent="org.eclipse.cdt.build.core.emptycfg">
+                <configuration artifactName="${ProjName}.exe" buildProperties="" description="" id="cdt.managedbuild.toolchain.gnu.mingw.base.22751677" name="Default" optionalBuildProperties="org.eclipse.cdt.docker.launcher.containerbuild.property.selectedvolumes=,org.eclipse.cdt.docker.launcher.containerbuild.property.volumes=" parent="org.eclipse.cdt.build.core.emptycfg">
                     					
                     <folderInfo id="cdt.managedbuild.toolchain.gnu.mingw.base.22751677.1575443584" name="/" resourcePath="">
                         						
@@ -72,16 +72,6 @@
                         </toolChain>
                         					
                     </folderInfo>
-                    					
-                    <fileInfo id="cdt.managedbuild.toolchain.gnu.mingw.base.22751677.1790362371" name="bld_decode.c" rcbsApplicability="disable" resourcePath="src/bld_decode.c" toolsToInvoke="cdt.managedbuild.tool.gnu.c.compiler.mingw.base.1918512915.2117665151">
-                        						
-                        <tool id="cdt.managedbuild.tool.gnu.c.compiler.mingw.base.1918512915.2117665151" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.mingw.base.1918512915">
-                            							
-                            <inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.177480455" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
-                            						
-                        </tool>
-                        					
-                    </fileInfo>
                     				
                 </configuration>
                 			
